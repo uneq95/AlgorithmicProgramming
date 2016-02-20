@@ -1,0 +1,4 @@
+#executable code
+*.exe
+#object code
+*.o
