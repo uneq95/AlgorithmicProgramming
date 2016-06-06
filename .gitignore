@@ -1,4 +1,11 @@
 #executable code
-*.exe
+#*.exe
+#*.executable
 #object code
-*.o
+#*.o
+#ignore all
+*
+!*/
+!*.cpp
+!*.txt
+!*.pdf
